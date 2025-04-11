@@ -1,0 +1,37 @@
+form{
+    width: 600px;
+    height:650px;
+    border:2px solid black;
+    margin: auto;
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+h2{
+    text-align: center;
+}
+input{
+    border-radius: 4px;
+    height: 30px;
+    width:300px;
+    background-color: bisque;
+    
+}
+input:hover{
+    background-color: rgb(34, 183, 247);
+}
+button{
+    width: 100px;
+    height: 40px;
+}
+button{
+    background-color: rgb(61, 218, 21);
+    border-radius: 4px;
+}
+button:hover{
+    background-color: chocolate;
+}
+.alert{
+    font-size: 50px;
+    color: blue;
+}
